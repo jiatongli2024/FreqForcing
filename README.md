@@ -45,6 +45,12 @@
 If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
+@article{li2026freqforcing,
+  title={FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring},
+  author={Li, Jiatong and Liang, Leo and Kong, Linghe and Zhang, Yulun},
+  journal={arXiv preprint arXiv:2607.27110},
+  year={2026}
+}
 ```
 
 
