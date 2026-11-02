@@ -4,7 +4,7 @@
 
 "FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring", arXiv 2026
 
-[![page](https://img.shields.io/badge/Project-Page-blue?logo=github)](https://jiatongli2024.github.io/freqforcing.github.io/)
+[![page](https://img.shields.io/badge/Project-Page-blue?logo=github)](https://github.com/jiatongli2024/FreqForcing)
 [![arXiv](https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv)](https://arxiv.org/abs/2607.27110)
 [![supp](https://img.shields.io/badge/Supplementary_material-Paper-orange.svg)](https://github.com/jiatongli2024/FreqForcing/releases/download/v1/Supplementary_Material.pdf)
 [![releases](https://img.shields.io/github/downloads/jiatongli2024/FreqForcing/total?color=green&style=flat)](https://github.com/jiatongli2024/FreqForcing/releases)
